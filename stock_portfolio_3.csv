@@ -1,0 +1,6 @@
+stock_name,t0_stock_price,units_held,t1_stock_price,target_weight,holding_weight
+A,100.0,5000.0,63.0,0.4,-1
+B,200.0,1500.0,277.0,0.3,-1
+C,50.0,4500.0,88.0,0.2,-1
+D,200.0,50.0,215.0,0.05,-1
+E,300.0,100.0,200.0,0.05,-1
